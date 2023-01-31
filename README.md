@@ -1,7 +1,7 @@
 <div align="center">
   <img src=./docs/images/title.png >
 </div>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a3c0ec0-2a68-4312-82b6-a60682f55def/deploy-status)](https://app.netlify.com/sites/csdiys/deploys)
 # CS 自学指南
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
